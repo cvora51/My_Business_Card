@@ -1,6 +1,8 @@
-# mybusinesscard
+# My_Business_Card
 
-A new Flutter application.
+My First Flutter application.
+
+This is a simple flutter application which displays the business details of an individual.
 
 ## Getting Started
 
