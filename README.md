@@ -4,6 +4,9 @@ My First Flutter application.
 
 This is a simple flutter application which displays the business details of an individual.
 
+![Main Screen](./Screenshot/Card.jpg)  
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
